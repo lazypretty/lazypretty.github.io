@@ -1,4 +1,5 @@
 LazyPretty
 ==========
 
-Placeholder site.
+Placeholder site. Please stand by.
+
